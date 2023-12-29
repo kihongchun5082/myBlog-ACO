@@ -1,0 +1,13 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.tabSize": 2,
+  "workbench.editor.decorations.colors": true,
+  "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+  "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+  "workbench.preferredLightColorTheme": "Visual Studio Dark",
+  "workbench.colorCustomizations": {
+    
+  }
+}
