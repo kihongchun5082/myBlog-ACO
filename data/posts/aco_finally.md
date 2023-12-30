@@ -11,6 +11,7 @@
 * 건강보험으로 보편적 의료보장을 달성한 모범적인 사례로 각광받고 있으며, [국민소득 대비 낮은 국민의료비](https://www.index.go.kr/unify/idx-info.do?idxCd=4242&clasCd=7)를 사용하여 OECD 평균보다 높은 평균수명의 건강결과를 이룬 효율적인 국가보건의료시스템을 이루었습니다.    
 
 ![Alte](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
+
 ![Alti](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 기대수명 추이.png>)
 
   또, 국민들의 의료기관에 대한 지리적, 경제적 접근성이 세계 최고수준으로 국민들이 건강보험에 대해 매우 만족하고 있습니다.
@@ -27,12 +28,13 @@
 * 낮은 수가의 [행위별수가제](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EB%B3%84%EC%88%98%EA%B0%80%EC%A0%9C)는 의료기관이 서비스 양(volume)을 지속적으로 늘리는 결과로 이어져 매년 10%정도의 급여 증가가 계속되었고 국민의료비가 급증하고 있습니다. 그러나 이런 의료비 증가가 국민 건강수준 향샹의 결과로 이어지지 못하고 있습니다.
 ![Alt text](<../../public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
 
-![Alt text](<https://github.com/kihongchun5082/images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
+![OECD MedCostPct](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
 
-![Alt text](<https://github.com/kihongchun5082/public/images/posts/OECD 국가별 GDP대비 국민의료비 백분율의 최근 5년간 연평균 증가율.png>)
+![OECD CostChange](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 GDP대비 국민의료비 백분율의 최근 5년간 연평균 증가율.png>)
 
-![Alt text](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD국가별 주관적 건강 인식 백분율 구성(2016-2020).png>)
+![OECD Self-recognition](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD국가별 주관적 건강 인식 백분율 구성(2016-2020).png>)
 
+![React Office desk](https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 
 * 낮은 수가와  국민들이 질(quality) 높은 서비스를 제공하는 [상급종합병원](https://ko.wikipedia.org/wiki/%EC%83%81%EA%B8%89%EC%A2%85%ED%95%A9%EB%B3%91%EC%9B%90)을 선호하게 만들었고, 비용-효과적인 [의료전달체계](https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A3%8C%EC%A0%84%EB%8B%AC%EC%B2%B4%EA%B3%84) 관점에서 중요한 [일차의료](https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%B0%A8%EC%9D%98%EB%A3%8C)가 약화되는 현상이 지속되고 있습니다. 결과적으로 의료기관은 생존을 위해 건강보험 급여 여건이 좋거나 비급여 비중이 높은 의료서비스 중심으로 운영하게 되었고, 이런 개별적이고 독립적인 의료기관 운영이 일반화되면서 의료전달체계의 왜곡은 심화되고 있습니다.
 
