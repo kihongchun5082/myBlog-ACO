@@ -41,10 +41,9 @@ export default async function DocuPage({ params: { slug }}: Props) {
   );
 }
 
-export async function generateStaticsParams() {
-  const posts = await getFeaturedPost()
-  return posts.map((p) => ({
-    slug: p.path
-  }) )
-}
+// export async function generateStaticsParams() {
+//   const posts = await getFeaturedPost()
+//   return posts.map((p) => ({
+//     slug: p.path
+//   }) )}
 
