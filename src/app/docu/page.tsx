@@ -3,7 +3,7 @@ import { getAllPost } from "@/service/posts";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: '전기홍 글',
+  title: '전기홍 ACO 책임의료조직 블로그',
   description: '국민 건강수명 연장을 위해 우리가 해야 할 것에 대한 글'
 }
 

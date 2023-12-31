@@ -60,7 +60,7 @@ export async function getPostData(filename: string): Promise<PostData> {
   // const filePath = path.join(iCloudPath, 'data', 'posts', `${filename}.md`)
   const posts = await getAllPost()
   // console.log('posts;',posts)
-  const post: Post | undefined = posts.find(p=>p.path === filename)
+  const post: Post | undefined = posts.find(p => p.path === filename)
   // console.log('post.fileType;', post?.fileType)
   // const filePath = path.join(process.cwd(), 'data', 'aco_posts', `${filename}.${post?.fileType}`)
   const filePath = path.join(process.cwd(), 'data', 'posts', `${filename}.${post?.fileType}`)

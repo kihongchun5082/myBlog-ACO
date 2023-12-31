@@ -9,7 +9,7 @@ const sans = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: '전기홍 블로그',
+    default: '전기홍 ACO 책임의료조직 블로그',
     template: '전기홍 블로그 | %s',
   },
   description: '건강수명을 위해 개인은 무얼해야 하나?',
