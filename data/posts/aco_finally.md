@@ -32,7 +32,8 @@
 
 
 * 낮은 수가의 [행위별수가제](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EB%B3%84%EC%88%98%EA%B0%80%EC%A0%9C)는 의료기관이 서비스 양(volume)을 지속적으로 늘리는 결과로 이어져 매년 10%정도의 급여 증가가 계속되었고 국민의료비가 급증하고 있습니다. 그러나 이런 의료비 증가가 국민 건강수준 향샹의 결과로 이어지지 못하고 있습니다.
-![OECD MedCostPct](<../../public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
+
+![OECD MedCostPct](<OECD 국가별 GDP대비 경상의료비 백분율.png>)
 
 ![OECD MedCostPct Trend](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
 
