@@ -6,8 +6,9 @@
 
 <Image
           className=" w-full"
-          src={`/images/posts/korea_HCS_pro_cons.png`}
-          alt={pro&console}
+          src=
+          "/images/posts/korea_HCS_pro_cons.png"
+          alt={pro&cons}
           width={700}
           height={150}
         />
@@ -15,25 +16,25 @@
 
 * 건강보험으로 보편적 의료보장을 달성한 모범적인 사례로 각광받고 있으며, [국민소득 대비 낮은 국민의료비](https://www.index.go.kr/unify/idx-info.do?idxCd=4242&clasCd=7)를 사용하여 OECD 평균보다 높은 평균수명의 건강결과를 이룬 효율적인 국가보건의료시스템을 이루었습니다.    
 
-![Alte](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
+![OECD MedCostPct](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
 
-![Alti](</public/images/posts/OECD 국가별 기대수명 추이.png>)
+![OECD LifeYear](</public/images/posts/OECD 국가별 기대수명 추이.png>)
 
-  또, 국민들의 의료기관에 대한 지리적, 경제적 접근성이 세계 최고수준으로 국민들이 건강보험에 대해 매우 만족하고 있습니다.
+  * 또, 국민들의 의료기관에 대한 지리적, 경제적 접근성이 세계 최고수준으로 국민들이 건강보험에 대해 매우 만족하고 있습니다.
 
 ### 2) 건강보험 때문에 잃어버린 것들
 
 * 반면, 건강보험 재정을 안정적으로 유지하기 위해 높은 [본인부담과 비급여](https://hineca.kr/1913#:~:text=%5B-,%EC%95%8C%EC%93%B8%EC%83%81%EC%8B%9D,-%5D%20%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%9D%98%20%EA%B8%89%EC%97%AC%2C%20%EB%B9%84%EA%B8%89%EC%97%AC)를 적용함으로써 소득계층간 건강결과가 계속 벌어지고 있습니다.
 
-![Alto](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 국민의료비 대비 본인부담금 백분율 (2020년).png>)
+![OECD PocketMoney](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 국민의료비 대비 본인부담금 백분율 (2020년).png>)
 
-![Alta](</public/images/posts/OECD 국가별 국민의료비 중 본인부담금 백분율 추이.png>)
+![OECD PocketMoneyPCT](</public/images/posts/OECD 국가별 국민의료비 중 본인부담금 백분율 추이.png>)
 
 
 * 낮은 수가의 [행위별수가제](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EB%B3%84%EC%88%98%EA%B0%80%EC%A0%9C)는 의료기관이 서비스 양(volume)을 지속적으로 늘리는 결과로 이어져 매년 10%정도의 급여 증가가 계속되었고 국민의료비가 급증하고 있습니다. 그러나 이런 의료비 증가가 국민 건강수준 향샹의 결과로 이어지지 못하고 있습니다.
-![Alt text](<../../public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
+![OECD MedCostPct](<../../public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
 
-![OECD MedCostPct](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
+![OECD MedCostPct Trend](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
 
 ![OECD CostChange](</public/images/posts/OECD 국가별 GDP대비 국민의료비 백분율의 최근 5년간 연평균 증가율.png>)
 
