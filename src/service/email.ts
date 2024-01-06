@@ -11,14 +11,14 @@ const transporter = nodemailer.createTransport({
   port: 465,
   secure: true, // true for 465, false for 587
   auth: {
-    user: process.env.AUTH_WS,
-    pass: process.env.AUTH_PASS_WS,
+    user: process.env.AUTH_USER,
+    pass: process.env.AUTH_PASS,
   }
 })
 
 export async function sendEmail({ subject, from, message }: EmailData) {
   const mailData = {
-    to: process.env.AUTH_WS,
+    to: process.env.AUTH_USER,
     subject: `[BLOG] ${subject}`,
     from: from,
     html: `

@@ -16,11 +16,13 @@ const DEFAULT_DATA = {
 }
 export default function ContactForm() {
   const [form, setForm] = useState<Form>(DEFAULT_DATA);
-  const [banner, setBanner] = useState<BannerData | null>(null)
-  const onChange = (ev: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    const { name, value } = ev.target
-    setForm(prev => ({...prev, [name]: value}))
-  }
+  const [banner, setBanner] = useState<BannerData | null>(null);
+  const onChange = (
+    ev: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+  ) => {
+    const { name, value } = ev.target;
+    setForm((prev) => ({ ...prev, [name]: value }));
+  }; 
   const onSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault()
     // console.log('onSubmit_form;', form)
