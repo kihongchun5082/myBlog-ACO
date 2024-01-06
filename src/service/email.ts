@@ -6,21 +6,23 @@ export type EmailData = {
   message: string
 }
 
+const user = 'blogforkoreaaco2024@kihongchun.com' ;
+
 const transporter = nodemailer.createTransport({
   host: 'smtp.gmail.com',
   port: 465,
   secure: true, // true for 465, false for 587
   auth: {
-    user: process.env.AUTH_USER,
+    user: user,
     pass: process.env.AUTH_PASS,
   }
 })
 
 export async function sendEmail({ subject, from, message }: EmailData) {
   const mailData = {
-    to: process.env.AUTH_USER,
+    to: user,
     subject: `[BLOG] ${subject}`,
-    from: from,
+    from,
     html: `
     <h1>${subject}</h1>
     <div>${message}</div>
