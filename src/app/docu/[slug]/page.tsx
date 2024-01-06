@@ -30,7 +30,7 @@ export default async function DocuPage({ params: { slug }}: Props) {
         src={`/images/posts/${path}.png`}
         alt={title}
         width={760}
-        height={760}
+        height={420}
       />
       <PostContent post={post} />
       <section className=" flex shadow-md">

@@ -4,21 +4,14 @@
 
 * 우리나라에 [국민건강보험](https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98)(이하 건강보험이라 함) 제도가 도입된 지 40년이 지난 현재, 건강보험 도입으로 인한 결과를 들여다 보면 국민 건강에 기여한 부분과 바람직하지 않은 곳으로 간 부분이 함께 존재합니다.   
 
-<Image
-          className=" w-full"
-          src=
-          "/images/posts/korea_HCS_pro_cons.png"
-          alt={pro&cons}
-          width={700}
-          height={150}
-        />
-### 1) 건강보험이 기여한 밝은 면
+![Pro&Cons](/images/posts/Pro_Cons.png)
 
+### 1) 건강보험이 기여한 밝은 면
 * 건강보험으로 보편적 의료보장을 달성한 모범적인 사례로 각광받고 있으며, [국민소득 대비 낮은 국민의료비](https://www.index.go.kr/unify/idx-info.do?idxCd=4242&clasCd=7)를 사용하여 OECD 평균보다 높은 평균수명의 건강결과를 이룬 효율적인 국가보건의료시스템을 이루었습니다.    
 
-![OECD MedCostPct](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
+![OECD MedCostPct](</images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
 
-![OECD LifeYear](</public/images/posts/OECD 국가별 기대수명 추이.png>)
+![OECD LifeYear](</images/posts/OECD 국가별 기대수명 추이.png>)
 
   * 또, 국민들의 의료기관에 대한 지리적, 경제적 접근성이 세계 최고수준으로 국민들이 건강보험에 대해 매우 만족하고 있습니다.
 
@@ -26,22 +19,20 @@
 
 * 반면, 건강보험 재정을 안정적으로 유지하기 위해 높은 [본인부담과 비급여](https://hineca.kr/1913#:~:text=%5B-,%EC%95%8C%EC%93%B8%EC%83%81%EC%8B%9D,-%5D%20%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EC%9D%98%20%EA%B8%89%EC%97%AC%2C%20%EB%B9%84%EA%B8%89%EC%97%AC)를 적용함으로써 소득계층간 건강결과가 계속 벌어지고 있습니다.
 
-![OECD PocketMoney](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/OECD 국가별 국민의료비 대비 본인부담금 백분율 (2020년).png>)
+![OECD PocketMoney](</images/posts/OECD 국가별 국민의료비 대비 본인부담금 백분율 (2020년).png>)
 
-![OECD PocketMoneyPCT](</public/images/posts/OECD 국가별 국민의료비 중 본인부담금 백분율 추이.png>)
+![OECD PocketMoneyPCT](</images/posts/OECD 국가별 국민의료비 중 본인부담금 백분율 추이.png>)
 
 
 * 낮은 수가의 [행위별수가제](https://ko.wikipedia.org/wiki/%ED%96%89%EC%9C%84%EB%B3%84%EC%88%98%EA%B0%80%EC%A0%9C)는 의료기관이 서비스 양(volume)을 지속적으로 늘리는 결과로 이어져 매년 10%정도의 급여 증가가 계속되었고 국민의료비가 급증하고 있습니다. 그러나 이런 의료비 증가가 국민 건강수준 향샹의 결과로 이어지지 못하고 있습니다.
 
-![OECD MedCostPct](<OECD 국가별 GDP대비 경상의료비 백분율.png>)
+![OECD MedCostPct](</images/posts/OECD 국가별 GDP대비 경상의료비 백분율.png>)
 
-![OECD MedCostPct Trend](</public/images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
+![OECD MedCostPct Trend](</images/posts/OECD 국가별 GDP대비 경상의료비 백분율 추이 (2015-2022).png>)
 
-![OECD CostChange](</public/images/posts/OECD 국가별 GDP대비 국민의료비 백분율의 최근 5년간 연평균 증가율.png>)
+![OECD CostChange](</images/posts/OECD 국가별 GDP대비 국민의료비 백분율의 최근 5년간 연평균 증가율.png>)
 
-![OECD Self-recognition](</public/images/posts/OECD국가별 주관적 건강 인식 백분율 구성(2016-2020).png>)
-
-![React Office desk](https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+![OECD Self-recognition](</images/posts/OECD국가별 주관적 건강 인식 백분율 구성(2016-2020).png>)
 
 * 낮은 수가와  국민들이 질(quality) 높은 서비스를 제공하는 [상급종합병원](https://ko.wikipedia.org/wiki/%EC%83%81%EA%B8%89%EC%A2%85%ED%95%A9%EB%B3%91%EC%9B%90)을 선호하게 만들었고, 비용-효과적인 [의료전달체계](https://ko.wikipedia.org/wiki/%EC%9D%98%EB%A3%8C%EC%A0%84%EB%8B%AC%EC%B2%B4%EA%B3%84) 관점에서 중요한 [일차의료](https://ko.wikipedia.org/wiki/%EC%9D%BC%EC%B0%A8%EC%9D%98%EB%A3%8C)가 약화되는 현상이 지속되고 있습니다. 결과적으로 의료기관은 생존을 위해 건강보험 급여 여건이 좋거나 비급여 비중이 높은 의료서비스 중심으로 운영하게 되었고, 이런 개별적이고 독립적인 의료기관 운영이 일반화되면서 의료전달체계의 왜곡은 심화되고 있습니다.
 
@@ -61,8 +52,7 @@
 
 * 우리나라 사망 원인의 70% 이상이 만성질환에 기인합니다. 만성질환은 일생동안 서서히 진행되는 질병으로 예방 가능합니다. 수십년에 걸친 기간동안 진행되기 때문에 [생활습관병](https://ko.wikipedia.org/wiki/%EC%83%9D%ED%99%9C%EC%8A%B5%EA%B4%80%EB%B3%91)이라고도 합니다. 어떤 것이 건강과 관련된 좋은 생활습관인지 일상생활에서 무엇을 주의해야 하는지 등은 전문가의 자문과 돌봄이 필요합니다. 그러나 현행의 건강보험은 장기간의 관점에서 어떻게 질병 예방을 잘 할 수 있는 지에 대해서는 거의 고려가 없고, 암, 뇌심혈관질환, 만성콩팥병, 당뇨병 등 이미 질환이 발생한 것에 대해 치료에만 집중하고 있습니다. 미래 국민의 건강 결과에는 좋지 않은 방향임이 분명합니다.
 
-![Alt text](<https://github.com/kihongchun5082/myBlog-ACO/blob/main/public/images/posts/%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%EC%A3%BC%EC%9A%94%EC%82%AC%EB%A7%9D%EC%9B%90%EC%9D%B8.png>)
-
+![CauseOfDeath]](/images/posts/%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%EC%A3%BC%EC%9A%94%EC%82%AC%EB%A7%9D%EC%9B%90%EC%9D%B8.png)
 
 ## 3. 책임의료조직이 필요한 이유
 
