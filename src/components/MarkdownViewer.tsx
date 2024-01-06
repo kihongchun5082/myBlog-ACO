@@ -12,23 +12,23 @@ export default function MarkdownViewer({ content }: {content: string}) {
       className = 'prose max-w-none'
       remarkPlugins={[ remarkGfm ]}
       components={{
-        code({ node, className, children, ...props }) {
-          const match = /language-(\w+)/.exec(className || '');
-          return match ? (
-            <SyntaxHighlighter
-              language={match[1]}
-              PreTag='div'
-              {...props}
-              style={materialDark}
-            >
-              {String(children).replace(/\n$/, '')}
-            </SyntaxHighlighter>
-          ) : (
-            <code className={className} {...props}>
-              {children}
-            </code>
-          );
-        },
+        // code({ node, className, children, ...props }) {
+        //   const match = /language-(\w+)/.exec(className || '');
+        //   return match ? (
+        //     <SyntaxHighlighter
+        //       language={match[1]}
+        //       PreTag='div'
+        //       // {...props}
+        //       style={materialDark}
+        //     >
+        //       {String(children).replace(/\n$/, '')}
+        //     </SyntaxHighlighter>
+        //   ) : (
+        //     <code className={className} {...props}>
+        //       {children}
+        //     </code>
+        //   );
+        // },
         img: (image) => (
           <Image
             className='w-full max-h-60 object-cover'
