@@ -6,14 +6,14 @@ type Props = {
 }
 export default function Categories({categories, selected, onClick}: Props) {
   return (
-    <section className=" text-center p-4">
-      <h2 className=" text-lg font-bold border-b border-sky-500 mb-2">
-        Category
+    <section className=" text-left p-4">
+      <h2 className=" text-center text-lg font-bold border-b-2 border-sky-500 mb-2">
+        {'구 분'}
       </h2>
       <ul>
         {categories.map((category) => (
           <li
-            className={`cursor-pointer hover:text-sky-500 ${
+            className={`cursor-pointer hover:text-red-900 ${
               category === selected && 'text-sky-600'
             }`}
             key={category}

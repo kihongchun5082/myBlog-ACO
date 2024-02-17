@@ -40,9 +40,6 @@ await compile(file, {
 })
 
  */}
-
-
-
     </section>
   );
 }

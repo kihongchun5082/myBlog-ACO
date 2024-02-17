@@ -1,9 +1,10 @@
 
 export default function Footer() {
   return (
-    <div>
-      <p className=" bg-indigo-950 text-white py-2 text-center text-sm">Footer</p>
-    </div>
+    <p className='bg-slate-900 text-white py-2 text-center text-sm'>
+        {"노년의 삶과 건강수명을 항상 생각하세요 | All Right Reserved."}
+      </p>
   );
 }
 
+{/* <p className=" bg-indigo-950 text-white py-2 text-center text-sm">Footer</p> */}

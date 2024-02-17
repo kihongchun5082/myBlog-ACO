@@ -3,8 +3,17 @@
     "title": "의료기관 책임제가 최종 가야 할 길입니다.",
     "description": "결국 의료전문가 조직이 책임을 가지고 인구집단을 관리하는 것이 추구해야 할 방향입니다.",
     "date": "2024-1-31",
-    "category": "aco",
+    "category": "책임의료조직",
     "path": "aco_finally",
+    "fileType": "md",
+    "featured": true
+  },
+  {
+    "title": "왜 국가가 만성질환관리를 해야 하나요?",
+    "description": "수 십년에 걸친 건강행태는 누군가가 책임을 가지고 개입해야 국민 건강수준이 향상됩니다.",
+    "date": "2024-2-15",
+    "category": "만성질환관리",
+    "path": "why_to_do_chronic_disease_management",
     "fileType": "md",
     "featured": true
   }
