@@ -16,5 +16,14 @@
     "path": "why_to_do_chronic_disease_management",
     "fileType": "md",
     "featured": true
+  },
+  {
+    "title": "책임의료조직이 왜 필요하나요?",
+    "description": "국민 건강을 위한 만성질환관리의 필요충분조건이 책임의료조직입니다.",
+    "date": "2024-2-24",
+    "category": "책임의료조직",
+    "path": "acoIDSPop",
+    "fileType": "md",
+    "featured": true
   }
 ]
