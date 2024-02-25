@@ -9,7 +9,7 @@ export default function PostCard({
 }: Props) {
   // const iCloudPath = '/Users/kihongchun/Library/Mobile Documents/com~apple~CloudDocs/myBlog'
   return (
-    <article className=" rounded-md bg-violet-200 overflow-hidden shadow-lg hover:shadow-2xl">
+    <article className=" rounded-md bg-violet-200 overflow-hidden shadow-2xl hover:shadow-3xl">
       {/* <Link href={`/posts/${path}`}> */}
       <Image
         className=" w-full"
@@ -21,7 +21,7 @@ export default function PostCard({
       />
       {/* </Link> */}
       <div className=" flex flex-col items-center p-4">
-        <time className=" self-end text-black-500">{date.toString()}</time>
+        <time className=" font-semibold self-end text-blue-800">{date.toString()}</time>
         <h3 className=" text-lg font-bold">{title}</h3>
         <p className=" w-full truncate text-center">{description}</p>
         {/* <span className=" text-sm rounded-lg bg-green-200 px-2 my-2">{category}</span> */}

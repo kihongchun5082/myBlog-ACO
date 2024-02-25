@@ -6,7 +6,7 @@ type Props = { posts: Post[]}
 export default function DocuGrid({ posts }: Props) {
   console.log('posts;', posts)
   return (
-    <ul className=" grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+    <ul className=" grid gap-5 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 p-2">
       {posts.map((p) => (
         <li key={p.path}>
           <Link href={`/docu/${p.path}`}>
