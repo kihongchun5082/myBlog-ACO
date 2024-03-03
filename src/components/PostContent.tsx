@@ -3,10 +3,10 @@ import MarkdownViewer from "@/components/MarkdownViewer";
 import { AiTwotoneCalendar } from 'react-icons/ai'
 
 export default function PostContent({post}: {post: PostData}) {
-  const { title, description, path, content, date } = post
+  const { title, description, content, date } = post
 
   return (
-    <section className=" flex flex-col p-4 w-full">
+    <section className=" bg-green-50 flex flex-col p-1 w-full">
         <div className=" flex items-center self-end text-sky-700">
           <AiTwotoneCalendar />
           <p className=" font-semibold ml-2">{date.toString()}</p>

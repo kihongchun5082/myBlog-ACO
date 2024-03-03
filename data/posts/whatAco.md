@@ -8,11 +8,9 @@
 
 * ACO로서 역할을 잘 수행하고 충분한 이익을 내기 위해서는 환자의 선호를 존중하고 진단과 치료에 대한 의사결정 과정을 환자와 공유하는 것이 중요하기 때문에 다음과 같은 역량이 필요할 것입니다. 첫째는 정보관리입니다. 환자의 상태와 진료 정보를 실시간으로 파악하고 의사소통하는 시스템이 있어야 합니다. 둘째는 전자의무기록입니다. 정보기술을 통해 광범위한 의무기록을 가지고 의료서비스의 결과를 분석하는 역량과 이 결과를 피드백할 수 있어야 할 것입니다. 셋째는 이런 인프라를 통해 인구집단과 효과적으로 의사소통하고 함께 의사결정함으로써 환자에 대한 교육과 인식 개선을 할 수 있고 선제적인 질과 비용의 관리가 가능해 질 것입니다.
 
-* 종합하면, ACO의 작동 기전은 ① 귀속(attribution)입니다. 책임맡아 주기를 원하는 대상자를 ACO에 귀속시킵니다. ② 임상적 재정적 책임(clinical financial accoutabilities)입니다. 귀속된 대상자에 대해 임상적 재정적 책임을 인식하고 실행합니다. ③ 보고(report)입니다. 정해진 질 지표를 측정하고 모든 서비스 자료를 보고해야 합니다. ④ 보상(incentive)입니다. 질과 비용 절감 목표를 달성하면 충분한 인센티브를 제공하는 것입니다.
+* 종합하면, ACO의 작동 기전은 ① 귀속(attribution)입니다. 책임맡아 주기를 원하는 대상자를 ACO에 귀속시킵니다. ② 임상적 재정적 책임(clinical financial accountabilities)입니다. 귀속된 대상자에 대해 임상적 재정적 책임을 인식하고 실행합니다. ③ 보고(report)입니다. 정해진 질 지표를 측정하고 모든 서비스 자료를 보고해야 합니다. ④ 보상(incentive)입니다. 질과 비용 절감 목표를 달성하면 충분한 인센티브를 제공하는 것입니다.    
 
-* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다[(Colla CH etc. Spending Differences Associated With the Medicare Physician Group Practice Demonstration. JAMA 2012:308(10);1015-1023. doi:10.1001/2012.jama.10812.)](https://jamanetwork.com/journals/jama/fullarticle/1357260#related-tab)
-
-<!-- Colla CH, Wennberg DE, Meara E, Skinner JS, Gottlieb D, Lewis VA, Snyder CM, Fisher ES. Spending differences associated with the Medicare Physician Group Practice Demonstration. JAMA. 2012 Sep 12;308(10):1015-23. doi: 10.1001/2012.jama.10812. PMID: 22968890; PMCID: PMC3484377. -->
+* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다[(Colla CH etc. Spending Differences Associated With the Medicare Physician Group Practice Demonstration. JAMA 2012:308(10);1015-1023. doi:10.1001/2012.jama.10812.)](https://jamanetwork.com/journals/jama/fullarticle/1357260#related-tab)    
 
 ![미국ACO의목표와작동기전](</images/posts/미국ACO의목표와작동기전.png>)
 
@@ -29,17 +27,17 @@
 ## 3. 가치-기반 지불방법
 
 * 행위별수가제는 [한계이익](https://fnwiki.org/marginal-benefit/)(Marginal benefit)이 0이 될때까지 서비스 양(volume)을 늘리는 인센티브 기전을 가져 의료비를  증가시키는 주된 원인이 됩니다. 반면에 합리적이므로 공급자와 소비자가 모두 받아들이기에 좋은 지불방법이고, 의료기술 발전을 촉진한다는 측면에서 많은 장점도 가집니다. 건강보험 40여년 동안의 기본 지불방법으로서 국민 수용성이 높아 다른 지불방법 대안이 효과성을 검증받을 기회조차 없었습니다. 그러나 이제는 보건의료 제공의 분절화, 의료비 증가로 인한 건강보험 재정 위기, 보건의료제공자의 [도덕적 해이](https://namu.wiki/w/%EB%8F%84%EB%8D%95%EC%A0%81%20%ED%95%B4%EC%9D%B4)(moral hazzard) 등 건강보험에서 행위별수가제 만을 붙들고 있기에는 한계가 왔다고 판단됩니다. 건강보험에서도 가치-기반([value-based](https://en.wikipedia.org/wiki/Value-based_health_care))지불 방법을 고려해야 합니다.
-  
+
 ![행위별수가제하에서한계이익과서비스양과의관계](</images/posts/행위별수가제하에서한계이익과서비스양과의관계.png>)
 
 * 가치-기반지불은 지불단위가 개인이 될 수 없습니다. 인구집단을 대상으로 건강평가([quality measure](https://en.wikipedia.org/w/index.php?title=Accountable_care_organization&action=edit&section=8))가 이루어지고 개인과 가족으로 구성된 인구집단의 건강이 향상되었다는 지표의 결과가 나오면 이 결과에  근거해 미리 정해진 방법으로 공급자조직이 사용한 비용과 이윤을 상환하는 것이 가치-기반지불입니다. 즉, 국민의 건강이 최종 가치이고 이 가치가 달성되면 합당한 지불을 하는 것입니다.
 
 * 건강보험은 국민 수용성이 높은 행위별수가제를 떠날 수 없기 때문에 [인두제 방식 지불방법](https://www.hira.or.kr/dummy.do?cmsurl=%2Fcms%2Fpolicy%2F02%2F01%2F1341864_27024.html&pgmid=HIRAA020006000000)([capitated payment](https://en.wikipedia.org/wiki/Capitation_(healthcare)))을 바로 적용하기는 어려울 것입니다. 그러므로 개인 단위로는 진료서비스 시점에서 행위별수가제 방식으로 상환하지만, 1년 단위로 맡고 있는 인구집단 전체에 대한 진료비를 정해진 기준에 근거한 표준 일인당 평균 진료비와 비교하여 절감한 비용에 대해 전액 혹은 상당 부분을 인센티브 방식으로 정산하는 방법 등이 응용될 수 있을 것입니다. 이것이 행위별수가제 하에서의 가치-기반지불 방식입니다. 다음은 행위별수가제와 인두제 간 연속상의 스펙트럼 속에 대안으로 적용할 수 있는 가치-기반지불의 방법입니다.    
-    > ① 행위별수가제(Fee-for-service(FFS))    
-② 성과 기반 인센티브를 갖는 행위별수가제(FFS with incentives based on performance)    
-③ 이익공유에 기반해 성과지불을 갖는 행위별수가제(FFS with pay-for-performance(P4P) based shared savings)    
-④ 이익공유와 위험공유에 기반해 성과지불을 갖는 행위별수가제(FFS with P4P based shared savings and shared risk)    
-⑤ 인두제와 묶음단위지불(Capitation and bundled payments)
+    ① 행위별수가제(Fee-for-service(FFS))    
+    ② 성과 기반 인센티브를 갖는 행위별수가제(FFS with incentives based on performance)    
+    ③ 이익공유에 기반해 성과지불을 갖는 행위별수가제(FFS with pay-for-performance(P4P) based shared savings)    
+    ④ 이익공유와 위험공유에 기반해 성과지불을 갖는 행위별수가제(FFS with P4P based shared savings and shared risk)    
+    ⑤ 인두제와 묶음단위지불(Capitation and bundled payments)
 
 ![가치기반지불방법과공급자위험](</images/posts/가치기반지불방법과공급자위험.png>)
 

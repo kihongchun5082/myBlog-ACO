@@ -4,7 +4,7 @@ import MyThoughts from '@/components/MyThoughts'
 
 export default function HomePage() {
   return (
-    <section className=' bg-slate-500'>
+    <section className=' bg-slate-400'>
       <Hero />
       <MyThoughts />
       <CarouselPosts />
