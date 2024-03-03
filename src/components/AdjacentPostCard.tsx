@@ -20,8 +20,8 @@ export default function AdjacentPostCard({ post: { path, title, description }, t
       />
       <div className="group absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full flex justify-around items-center text-white px-8 ">
         {type === 'prev' && <FaArrowLeft className={ICON_CLASS} />}
-        <div className=" w-full h-fit text-center">
-          <h3 className=" text-xl md:text-2xl font-bold">{title}</h3>
+        <div className=" w-full h-full text-center">
+          <h3 className=" text-lg sm:text-2xl md:text-3xl font-bold">{title}</h3>
           <p className=" text-sm text-lime-400 font-semibold">{description}</p>
         </div>
         {type === 'next' && <FaArrowRight className={ICON_CLASS} />}
