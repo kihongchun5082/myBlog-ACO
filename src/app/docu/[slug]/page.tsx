@@ -20,24 +20,24 @@ export async function generateMetadata({
 export default async function DocuPage({ params: { slug }}: Props) {
       // 1. 전달된 slug에 해당하는 글 데이터를 읽어와서
       // 2. 데이터를 마크다운뷰에 표기하면 됨
-      const post = await getPostData(slug)
-      const { title, path, next, prev } = post
+  const post = await getPostData(slug)
+  const { title, path, next, prev } = post
       // console.log('post_slug;', post)
       // const iCloudPath = '/Users/kihongchun/Library/Mobile Documents/com~apple~CloudDocs/myBlog'
-      return (
-        <article className=" rounded-2xl overflow-hidden bg-gray-100 shadow-lg m-4">
-      <Image className=" w-full h-1/5 max-h-[500px]"
-        src={`/images/posts/${path}.png`}
-        alt={title}
-        width={760}
-        height={420}
-      />
-      <PostContent post={post} />
-      <section className=" flex shadow-md">
-        {prev && <AdjacentPostCard post={prev} type='prev'/>}
-        {next && <AdjacentPostCard post={next} type='next'/>}
-      </section>
-    </article>
+  return (
+  <article className=" rounded-2xl overflow-hidden bg-gray-100 shadow-lg m-2">
+    <Image className=" w-full h-1/5 max-h-[500px]"
+      src={`/images/posts/${path}.png`}
+      alt={title}
+      width={760}
+      height={420}
+    />
+    <PostContent post={post} />
+    <section className=" h-full flex shadow-md">
+      {prev && <AdjacentPostCard post={prev} type='prev'/>}
+      {next && <AdjacentPostCard post={next} type='next'/>}
+    </section>
+  </article>
   );
 }
 
