@@ -6,7 +6,7 @@ export default function PostContent({post}: {post: PostData}) {
   const { title, description, content, date } = post
 
   return (
-    <section className=" bg-green-50 flex flex-col p-1 w-full">
+    <section className=" flex flex-col p-1 w-full">
         <div className=" flex items-center self-end text-sky-700">
           <AiTwotoneCalendar />
           <p className=" font-semibold ml-2">{date.toString()}</p>

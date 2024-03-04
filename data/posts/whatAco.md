@@ -12,7 +12,7 @@
 
 * 종합하면, ACO의 작동 기전은 ① 귀속(attribution)입니다. 책임맡아 주기를 원하는 대상자를 ACO에 귀속시킵니다. ② 임상적 재정적 책임(clinical financial accountabilities)입니다. 귀속된 대상자에 대해 임상적 재정적 책임을 인식하고 실행합니다. ③ 보고(report)입니다. 정해진 질 지표를 측정하고 모든 서비스 자료를 보고해야 합니다. ④ 보상(incentive)입니다. 질과 비용 절감 목표를 달성하면 충분한 인센티브를 제공하는 것입니다.    
 
-* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다(Colla 등, 2012)
+* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다(Colla 등, 2012).    
 
 ## 2. 보건의료제공조직과 인센티브
 
@@ -28,8 +28,9 @@
 
 * 행위별수가제는 [한계이익](https://fnwiki.org/marginal-benefit/)(Marginal benefit)이 0이 될때까지 서비스 양(volume)을 늘리는 인센티브 기전을 가져 의료비를  증가시키는 주된 원인이 됩니다. 반면에 합리적이므로 공급자와 소비자가 모두 받아들이기에 좋은 지불방법이고, 의료기술 발전을 촉진한다는 측면에서 많은 장점도 가집니다. 건강보험 40여년 동안의 기본 지불방법으로서 국민 수용성이 높아 다른 지불방법 대안이 효과성을 검증받을 기회조차 없었습니다. 그러나 이제는 보건의료 제공의 분절화, 의료비 증가로 인한 건강보험 재정 위기, 보건의료제공자의 [도덕적 해이](https://namu.wiki/w/%EB%8F%84%EB%8D%95%EC%A0%81%20%ED%95%B4%EC%9D%B4)(moral hazard) 등 건강보험에서 행위별수가제 만을 붙들고 있기에는 한계가 왔다고 판단됩니다. 건강보험에서도 가치-기반([value-based](https://en.wikipedia.org/wiki/Value-based_health_care))지불 방법을 고려해야 합니다.
 
-![행위별수가제하한계이익](</images/posts/행위별수가제하한계이익.png>)
+![행위별수가제하한계이익](</images/posts/행위별수가제하한계이익.png>)    
 
+![행위별수가제하한계이익](</images/posts/행위별수가제하한계이익.png>)
 
 * 가치-기반지불은 지불단위가 개인이 될 수 없습니다. 인구집단을 대상으로 건강평가([quality measure](https://en.wikipedia.org/w/index.php?title=Accountable_care_organization&action=edit&section=8))가 이루어지고 개인과 가족으로 구성된 인구집단의 건강이 향상되었다는 지표의 결과가 나오면 이 결과에  근거해 미리 정해진 방법으로 공급자조직이 사용한 비용과 이윤을 상환하는 것이 가치-기반지불입니다. 즉, 국민의 건강이 최종 가치이고 이 가치가 달성되면 합당한 지불을 하는 것입니다.
 
@@ -44,11 +45,11 @@
 
 ## 4. 귀속
 
-* 귀속(attribution)은 책임맡을 대상자를 ACO에 가입시키는 것입니다. 중요한 것은 [위험선택](https://dic.mk.co.kr/cp/pop/today.php?dic_key=11440#:~:text=%EC%9C%84%ED%97%98%EC%84%A0%ED%83%9D(risk%20selection)&text=%ED%8A%B9%ED%9E%88%2C%20%EC%86%90%ED%95%B4%EB%B3%B4%ED%97%98%20%EB%B3%B4%ED%97%98%EC%9E%90%EA%B0%80,%ED%95%98%EC%97%AC%20%EC%9D%B8%EC%88%98%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EB%A7%90%ED%95%9C%EB%8B%A4.)([risk selection](https://lifeinsurance.adityabirlacapital.com/insurance-dictionary/r/risk-selection#:~:text=Risk%20selection%2C%20also%20known%20as,if%20so%2C%20at%20what%20price.))을 배제하는 것 입니다. ACO가 자원과 진료비가 많이 소요되는 중증질환자를 회피하는 것을 할 수 없도록 해야 합니다. 행위별수가제에서는 사용된 자원과 진료비를 행위별로 보상하기 때문에 위험선택을 고려할 필요가 없습니다. 그러나 가치-기반지불에서는 성과 평가 결과에 중증질환자가 좋지 않은 영향을 미치기 때문에 가능한 배제하고자 할 것입니다. 그러므로 특정 ACO에 가입을 원하는 국민들을 해당 ACO가 거절할 수 없도록 해야 합니다.
+* 귀속(attribution)은 책임맡을 대상자를 ACO에 가입시키는 것입니다. 중요한 것은 [위험선택](https://dic.mk.co.kr/cp/pop/today.php?dic_key=11440#:~:text=%EC%9C%84%ED%97%98%EC%84%A0%ED%83%9D(risk%20selection)&text=%ED%8A%B9%ED%9E%88%2C%20%EC%86%90%ED%95%B4%EB%B3%B4%ED%97%98%20%EB%B3%B4%ED%97%98%EC%9E%90%EA%B0%80,%ED%95%98%EC%97%AC%20%EC%9D%B8%EC%88%98%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EB%A7%90%ED%95%9C%EB%8B%A4.)([risk selection](https://lifeinsurance.adityabirlacapital.com/insurance-dictionary/r/risk-selection#:~:text=Risk%20selection%2C%20also%20known%20as,if%20so%2C%20at%20what%20price.))을 배제하는 것 입니다. ACO가 자원과 진료비가 많이 소요되는 중증질환자를 회피하는 것을 할 수 없도록 해야 합니다. 행위별수가제에서는 사용된 자원과 진료비를 행위별로 보상하기 때문에 위험선택을 고려할 필요가 없습니다. 그러나 가치-기반지불에서는 성과 평가 결과에 중증질환자가 좋지 않은 영향을 미치기 때문에 가능한 배제하고자 할 것입니다. 그러므로 특정 ACO에 가입을 원하는 국민들을 해당 ACO가 거절할 수 없도록 해야 합니다.    
 
-* 귀속이 중요한 또 다른 이유는 [소비자 선택](https://dic.mk.co.kr/cp/pop/today.php?dic_key=22445)([consumer choice](https://en.wikipedia.org/wiki/Consumer_choice))입니다. 소비자가 시장에서 원하는 ACO를 선택할 수 있도록 시장을 만들어야 정부가 원하는 국민 건강 향상과 비용 절감을 이룰 수 있습니다. ACO들 간의 [경쟁환경](https://ko.wikipedia.org/wiki/%EC%99%84%EC%A0%84_%EA%B2%BD%EC%9F%81)([competitive environment](https://ca.indeed.com/career-advice/career-development/competitive-environment#:~:text=A%20competitive%20environment%20is%20where,their%20strategies%20to%20compete%20effectively.))을 조성하고 소비자가 선택할 수 있도록 해야 합니다. 그리고 언제든지 원하는 ACO를 바꿀 수 있도록 해야 합니다. 그렇게 해야 ACO는 다른 ACO로 옮기는 것을 막기 위해 서비스 질과 비용 절감을 위해 지속적으로 투자하고 노력할 것입니다. 현재 이동통신사 간의 경쟁을 생각하시면 이해에 도움이 될 것입니다. 이것이 정부의 시장 통제 방향이어야 합니다. 정부는 구조적으로 공공정책 설계에 한계를 가집니다(Enthoven,1978). 정부는 공급자에 관심을 가지고 반응하지만 실제 시장은 소비자 관심에 집중하고 반응합니다. 결과적으로 시장실패(market failure)로 이어지고 효과적인 사회적 목적을 달성할 수 없습니다. 사회보험이라고 해서 직접 시장을 규제하는 것보다는 효과적인 시장을 만드는 것이 지속 가능한 건강보험을 유지할 수 있습니다. 시장을 억압하지 않고 건강보험 재정을 사용해 시장을 형성하고 경쟁을 유지하는 인센티브와 경쟁의 틀을 만들어 시장의 작동 기전을 통제하는 것이 정부의 역할일 것입니다.
+* 귀속이 중요한 또 다른 이유는 [소비자 선택](https://dic.mk.co.kr/cp/pop/today.php?dic_key=22445)([consumer choice](https://en.wikipedia.org/wiki/Consumer_choice))입니다. 소비자가 시장에서 원하는 ACO를 선택할 수 있도록 시장을 만들어야 정부가 원하는 국민 건강 향상과 비용 절감을 이룰 수 있습니다. ACO들 간의 [경쟁환경](https://ko.wikipedia.org/wiki/%EC%99%84%EC%A0%84_%EA%B2%BD%EC%9F%81)([competitive environment](https://ca.indeed.com/career-advice/career-development/competitive-environment#:~:text=A%20competitive%20environment%20is%20where,their%20strategies%20to%20compete%20effectively.))을 조성하고 소비자가 선택할 수 있도록 해야 합니다. 그리고 언제든지 원하는 ACO를 바꿀 수 있도록 해야 합니다. 그렇게 해야 ACO는 다른 ACO로 옮기는 것을 막기 위해 서비스 질과 비용 절감을 위해 지속적으로 투자하고 노력할 것입니다. 현재 이동통신사 간의 경쟁을 생각하시면 이해에 도움이 될 것입니다. 이것이 정부의 시장 통제 방향이어야 합니다. 정부는 구조적으로 공공정책 설계에 한계를 가집니다(Enthoven,1978). 정부는 공급자에 관심을 가지고 반응하지만 실제 시장은 소비자 관심에 집중하고 반응합니다. 결과적으로 시장실패(market failure)로 이어지고 효과적인 사회적 목적을 달성할 수 없습니다. 사회보험이라고 해서 직접 시장을 규제하는 것보다는 효과적인 시장을 만드는 것이 지속 가능한 건강보험을 유지할 수 있습니다. 시장을 억압하지 않고 건강보험 재정을 사용해 시장을 형성하고 경쟁을 유지하는 인센티브와 경쟁의 틀을 만들어 시장의 작동 기전을 통제하는 것이 정부의 역할일 것입니다.    
 
-![바람직한건강보험시장의작동기전](</images/posts/바람직한건강보험시장의작동기전.png>)
+![바람직한건강보험시장의작동기전](</images/posts/바람직한건강보험시장의작동기전.png>)
 
 #### 참고문헌:    
 
