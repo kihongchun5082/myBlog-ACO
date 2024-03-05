@@ -33,7 +33,7 @@ export default async function DocuPage({ params: { slug }}: Props) {
       height={420}
     />
     <PostContent post={post} />
-    <section className=" h-full flex shadow-md">
+    <section className=" h-40 sm:h-48 md:h-56 flex shadow-md">
       {prev && <AdjacentPostCard post={prev} type='prev'/>}
       {next && <AdjacentPostCard post={next} type='next'/>}
     </section>

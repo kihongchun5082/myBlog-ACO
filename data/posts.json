@@ -9,11 +9,20 @@
     "featured": true
   },
   {
-    "title": "왜 국가가 만성질환관리를 해야 하나요?",
-    "description": "수 십년에 걸쳐 국민 건강행태를 효과적으로 관리하기 위해서는 누군가가 책임을 가지고 개입해야 합니다.",
+    "title": "만성질환이 국민건강에 왜 중요한가요?",
+    "description": "만성질환은 국민이 알지 못하는 사이에 모든 장기를 서서히 망가뜨립니다.",
     "date": "2024-2-15",
     "category": "만성질환관리",
-    "path": "why_to_do_chronic_disease_management",
+    "path": "riskChrDis",
+    "fileType": "md",
+    "featured": true
+  },
+  {
+    "title": "왜 국가가 만성질환관리를 해야 하나요?",
+    "description": "수 십년에 걸쳐 국민 건강행태를 효과적으로 관리하기 위해서는 누군가가 책임을 가지고 개입해야 합니다.",
+    "date": "2024-3-5",
+    "category": "만성질환관리",
+    "path": "whyDoChronicDiseaseManagement",
     "fileType": "md",
     "featured": true
   },
