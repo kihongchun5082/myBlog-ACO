@@ -43,5 +43,14 @@
     "path": "whatAco",
     "fileType": "md",
     "featured": true
+  },
+  {
+    "title": "책임의료조직은 환자중심가정진료로 완성됩니다.",
+    "description": "보건의료서비스 제공의 중심이 병원에서 가정으로 바뀝니다.",
+    "date": "2024-3-22",
+    "category": "환자중심가정진료",
+    "path": "medicalHome",
+    "fileType": "md",
+    "featured": true
   }
 ]
