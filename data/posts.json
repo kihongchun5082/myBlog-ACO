@@ -52,5 +52,15 @@
     "path": "medicalHome",
     "fileType": "md",
     "featured": true
+  },
+  {
+    "title": "R을 사용한 건강보험통계연보 분석",
+    "description": "표6-2 298분류에 따른 주요 질환 환자 수 변이(2010-2022)",
+    "date": "2024-3-29",
+    "category": "R프로그램",
+    "path": "R_298CatPts",
+    "fileType": "md",
+    "featured": false
   }
 ]
+

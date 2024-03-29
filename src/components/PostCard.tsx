@@ -13,7 +13,6 @@ export default function PostCard({
       {/* <Link href={`/posts/${path}`}> */}
       <Image
         className=" w-full"
-        // src={postImage}
         src={`/images/posts/${path}.png`}
         alt={title}
         width={300}
@@ -24,7 +23,6 @@ export default function PostCard({
         <time className=" font-semibold self-end text-blue-800">{date.toString()}</time>
         <h3 className=" text-lg font-bold">{title}</h3>
         <p className=" w-full truncate text-center">{description}</p>
-        {/* <span className=" text-sm rounded-lg bg-green-200 px-2 my-2">{category}</span> */}
         <span className=" text-sm rounded-lg bg-green-100 px-2 my-2">
           {category}
         </span>
