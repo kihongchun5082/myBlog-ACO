@@ -9,8 +9,8 @@ const sans = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'ACO 책임의료조직 만성질환 전기홍 블로그 미국보건의료체계',
-    template: '전기홍 블로그 | %s',
+    default: '책임의료조직 만성질환 전기홍 미국보건의료체계',
+    template: '전기홍 책임의료조직 블로그 | %s',
   },
   description: '한국형 책임의료조직(ACO) 도입을 위한 전기홍의 블로그',
   icons: {

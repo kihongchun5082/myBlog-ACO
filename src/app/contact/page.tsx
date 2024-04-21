@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import { AiFillGithub, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
 
 export const metadata: Metadata = {
-  title: '한국형 책임의료조직 ACO 연락하기',
-  description: '한국형 책임의료조직 ACO 메일 보내기'
+  title: '한국형 책임의료조직 전기홍 블로그 연락하기',
+  description: '한국형 책임의료조직 전기홍 블로그 메일 보내기'
 }
 
 const LINKS = [

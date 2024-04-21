@@ -3,8 +3,8 @@ import { getAllPost } from "@/service/posts";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: '전기홍 ACO 책임의료조직 블로그',
-  description: '국민 건강수명 연장을 위해 우리가 해야 할 것에 대한 글'
+  title: '책임의료조직 전기홍 블로그',
+  description: '책임의료조직은 국민 건강수명 연장을 위해 반드시 우리가 해 내야 할 과제입니다.'
 }
 
 export default async function Docu() {
