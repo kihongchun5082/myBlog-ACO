@@ -64,10 +64,19 @@
   },
   {
     "title": "미국 보건의료체계에서 우리는 많은 것을 배워야 합니다.",
-    "description": "우리나라가 갖지 못한 기회를 학습하고 후손들에게 기회를 물려주어야 지속적인 국가 발전의 선순환이 이루어집니다.",
+    "description": "우리나라가 갖지 못한 기회를 학습하고 후손들에게 물려주어야 지속적인 국가 발전의 선순환이 이루어집니다.",
     "date": "2024-04-21",
     "category": "미국보건의료체계",
     "path": "hlthSysGnrlUS",
+    "fileType": "md",
+    "featured": true
+  },
+  {
+    "title": "미국 보건의료체계의 중심은 민간의료보험이 아니고 CMS입니다.",
+    "description": "CMS는 공급자의 서비스 과정을 통제하지만 우리나라 건강보험공단은 못합니다.",
+    "date": "2024-05-12",
+    "category": "미국보건의료체계",
+    "path": "hlthSysCmpsUS",
     "fileType": "md",
     "featured": true
   }
