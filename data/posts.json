@@ -9,11 +9,29 @@
     "featured": true
   },
   {
-    "title": "만성질환이 국민건강에 왜 중요한가요?",
-    "description": "만성질환은 국민이 알지 못하는 사이에 모든 장기를 서서히 망가뜨립니다.",
-    "date": "2024-02-15",
+    "title": "고혈압, 당뇨병, 이상지질혈증, 비만, 흡연이 뇌졸중, 심근경색, 만성콩팥병 발생에 얼마나 영향을 미치나요?",
+    "description": "전 세계에 걸친 연구에서 각 요인마다 2-4배 발생을 높이는 것으로 나왔습니다.",
+    "date": "2024-02-16",
     "category": "만성질환관리",
     "path": "riskChrDis",
+    "fileType": "md",
+    "featured": true
+  },
+  {
+    "title": "만성질환은 무엇이고, 왜 위험한가요?",
+    "description": "만성질환은 수 십년에 걸쳐 신체를 손상하고 죽음에 이르게 하는 주범입니다.",
+    "date": "2024-02-14",
+    "category": "만성질환관리",
+    "path": "defChrDis",
+    "fileType": "md",
+    "featured": true
+  },
+  {
+    "title": "우리나라 국민은 만성질환에 얼마나 이환되었고 새로 발생하나요?",
+    "description": "50세 이상 국민들의 반 이상이 고혈압 혹은 당뇨병에 이환되어 있고 뇌졸중, 심근경색, 만성콩팥병이 연간 100명 중 1명 발생합니다.",
+    "date": "2024-02-15",
+    "category": "만성질환관리",
+    "path": "prevInciChrDis",
     "fileType": "md",
     "featured": true
   },
