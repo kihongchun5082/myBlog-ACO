@@ -1,20 +1,67 @@
-# 책임의료조직이 만성질환관리를 잘 하는 이유는 무엇인가요?
+# 책임의료조직 기전은 무엇인가요?
 
-## 1. 책임의료조직의 목표와 작동 기전
 
-* 책임의료조직([Accountable Care Organization](https://en.wikipedia.org/wiki/Accountable_care_organization): ACO)의 기원은 미국의 [오바마케어](https://namu.wiki/w/%EC%98%A4%EB%B0%94%EB%A7%88%EC%BC%80%EC%96%B4)([Obamacare](https://en.wikipedia.org/wiki/Affordable_Care_Act)입니다. 오바마케어의 핵심 작동 기전인 ACO가 의도한 목표와 전략은 다음과 같습니다. 미국 보건부 산하 기관이고 미국 인구의 ⅓에 해당하는 노인과 빈약자에 대한 의료보장을 담당하는 [CMS](https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services)(Center for Medicare and Medicaid Services) 대상자인 [메디케어](https://www.medicare.gov/publications/11306-K-Medicare-Medicaid.pdf)([medicare](https://en.wikipedia.org/wiki/Medicare_(United_States)))와 [메디케이드](https://www.medicare.gov/publications/11306-K-Medicare-Medicaid.pdf)([medicaid](https://en.wikipedia.org/wiki/Medicaid)) 국민에게 더 나은 질의 서비스를 제공함으로써 건강을 향상하면서 비용을 억제하고자 하는 목표를 달성하고자 ACO를 도입하였습니다. ACO는 세 가지 핵심 요소를 통해 목표를 이루고자 하는데, ① 의료제공조직, ② 지불 제도, ③ 성과 측정 입니다.
+* 미국 ACO의 초기 모형은 CMMI가 처음 제안한 이익분배([Cost savings program](https://en.wikipedia.org/wiki/Accountable_care_organization))프로그램과 이를 기존 관리의료조직([MCO](https://en.wikipedia.org/wiki/Managed_care):Managed Care Organization, 이하 MCO라 함)의 서비스 네트워크 플랜 - 보험회사의 의료보험 플랜 - 들이 적응하기 용이하게 개발한 선구자[Pioneer program](https://en.wikipedia.org/wiki/Accountable_care_organization)프로그램이 있습니다. MCO는 미국 의료보험체계에서 보건의료제공체계를 구성하는 틀 중 대부분을 차지하는 운영방법입니다. 거점병원을 중심으로 보건의료제공 네트워크를 구축하고 피보험자들에게 서비스를 제공하는 보건의료제공조직입니다. 그러므로 선구자 프로그램은 대형병원과 서비스 네트워크를 가진 제공자조직을 대상으로 ACO를 효과적으로 적용하기 위한 것입니다. 반면 이익분배 프로그램은 의원이나 소규모 병원을 대상으로 하는 프로그램입니다. 그러므로 규모에 따른 인센티브 지불방법과 접근 방식에 차이가 있습니다. 가장 크게 다른 점은 재정적 위험과 보상 정도에 차이가 있습니다. 이익분배 프로그램은 위험을 가능한 감수하지 않은 대신 보상도 크지 않으나, 선구자 프로그램은 위험이 크면 보상도 많게 하였습니다.
+
+![미국ACO초기모형](</images/posts/미국ACO초기모형.png>)
+
+
+
+
+* 이 보건의료제공조직이 ACO가 될 것입니다. ACO는 인구집단 단위로 보상하는 묶음지불방법([bundled payment](https://en.wikipedia.org/wiki/Bundled_payment))을 적용합니다. 책임맡은 인구집단의 건강 결과를 평가해 인구집단 전체에 대한 지불을 합니다. 건강 결과의 판단은 미리 정해진 질 평가 표준을 기준으로 합니다. 이 질 평가 표준에 만성질환관리 질 평가지표가 포함됩니다. 질 평가 결과 정해진 기준보다 잘 했다면 미리 정해진 보상기준에 의해 인센티브를 주는 방식입니다.    
+
+
+
+
+## 1. 책임의료조직의 목표
+
+* 책임의료조직([Accountable Care Organization](https://en.wikipedia.org/wiki/Accountable_care_organization): ACO)의 기원은 미국의 [오바마케어](https://namu.wiki/w/%EC%98%A4%EB%B0%94%EB%A7%88%EC%BC%80%EC%96%B4)([Obamacare](https://en.wikipedia.org/wiki/Affordable_Care_Act)입니다. 오바마케어의 핵심 작동 기전인 ACO가 의도한 목표와 전략은 다음과 같습니다. 
+
+* 미국 보건부 산하 기관이고 미국 인구의 ⅓에 해당하는 노인과 빈약자에 대한 의료보장을 담당하는 [CMS](https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services)(Center for Medicare and Medicaid Services)는 [메디케어](https://www.medicare.gov/publications/11306-K-Medicare-Medicaid.pdf)([medicare](https://en.wikipedia.org/wiki/Medicare_(United_States)))와 [메디케이드](https://www.medicare.gov/publications/11306-K-Medicare-Medicaid.pdf)([medicaid](https://en.wikipedia.org/wiki/Medicaid))를 운영합니다. 메디케어와 메디케이드 대상자에게 더 나은 질의 서비스를 제공함으로써 건강을 향상하고 비용을 억제하고자 하는 목표를 달성하고자 ACO를 도입하였습니다. 
+
+## 2. 책임의료조직의 작동 기전
+
+### 가. 책임의료조직의 핵심 요소
+
+* ACO는 세 가지 핵심 요소를 통해 목표를 이루고자 합니다. ① 보건의료제공조직, ② 지불 제도, ③ 성과 측정 입니다.
 
 ![미국ACO의목표와작동기전](</images/posts/미국ACO의목표와작동기전.png>)
 
-* 첫째 요소인 의료제공조직은 책임맡은 인구집단에 속한 개인의 모든 비용과 서비스 질을 책임지는 일차진료를 기반으로 하는 공급자 조직입니다. 인구집단에 대한 포괄적(comprehensive)이고 지속적(continuous)인 돌봄(care)을 제공합니다. 둘째 요소인 지불 제도는 의료 질 개선과 함께 의료비용(health care cost)을 고려하도록 하는 지불방법을 도입하는 것입니다. 셋째 요소인 성과 측정은 서비스 질 개선과 비용 절감을 입증할 수 있는 측정 방법의 도입입니다.
+* 첫째 요소인 의료제공조직은 책임맡은 인구집단에 속한 개인의 모든 비용과 서비스 질을 책임지는 일차진료를 기반으로 하는 공급자 조직입니다. 인구집단에 대한 포괄적(comprehensive)이고 지속적(continuous)인 돌봄(care)을 제공합니다. 
 
-* ACO로서 역할을 잘 수행하고 충분한 이익을 내기 위해서는 환자의 선호를 존중하고 진단과 치료에 대한 의사결정 과정을 환자와 공유하는 것이 중요하기 때문에 다음과 같은 역량이 필요할 것입니다. 첫째는 정보관리입니다. 환자의 상태와 진료 정보를 실시간으로 파악하고 의사소통하는 시스템이 있어야 합니다. 둘째는 전자의무기록입니다. 정보기술을 통해 광범위한 의무기록을 가지고 의료서비스의 결과를 분석하는 역량과 이 결과를 피드백할 수 있어야 할 것입니다. 셋째는 이런 인프라를 통해 인구집단과 효과적으로 의사소통하고 함께 의사결정함으로써 환자에 대한 교육과 인식 개선을 할 수 있고 선제적인 질과 비용의 관리가 가능해 질 것입니다.
+* 둘째 요소인 지불 제도는 의료 질 개선과 함께 의료비용(health care cost)을 고려하도록 하는 지불방법을 도입하는 것입니다. 
 
-* 종합하면, ACO의 작동 기전은 ① 귀속(attribution)입니다. 책임맡아 주기를 원하는 대상자를 ACO에 귀속시킵니다. ② 임상적 재정적 책임(clinical financial accountabilities)입니다. 귀속된 대상자에 대해 임상적 재정적 책임을 인식하고 실행합니다. ③ 보고(report)입니다. 정해진 질 지표를 측정하고 모든 서비스 자료를 보고해야 합니다. ④ 보상(incentive)입니다. 질과 비용 절감 목표를 달성하면 충분한 인센티브를 제공하는 것입니다.    
+* 셋째 요소인 성과 측정은 서비스 질 개선과 비용 절감을 입증할 수 있는 측정 방법의 도입입니다.
 
-* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다(Colla 등, 2012).    
+### 나. 책임의료조직이 갖추어야 할 역량
 
-## 2. 보건의료제공조직과 인센티브
+* ACO로서 역할을 잘 수행하고 충분한 이익을 내기 위해서는 환자의 선호를 존중하고 진단과 치료에 대한 의사결정 과정을 환자와 공유하는 것이 중요하기 때문에 다음과 같은 역량이 필요합니다. 
+
+* 첫째, 정보관리입니다. 환자의 상태와 진료 정보를 실시간으로 파악하고 의사소통하는 시스템이 있어야 합니다. 
+
+* 둘째, 전자의무기록입니다. 정보기술을 통해 광범위한 의무기록을 가지고 의료서비스의 결과를 분석하는 역량과 이 결과를 피드백할 수 있어야 할 것입니다. 
+
+* 셋째, 이런 인프라를 통해 인구집단과 효과적으로 의사소통하고 함께 의사결정함으로써 환자에 대한 교육과 인식 개선을 할 수 있고 선제적인 질과 비용의 관리가 가능해 질 것입니다.
+
+### 다. 책임의료조직의 작동 기전
+
+* ACO의 작동 기전을 정리하면 다음과 같습니다.
+
+* ① 귀속(attribution)입니다. 책임맡아 주기를 원하는 대상자를 ACO에 귀속시킵니다. 
+
+* ② 임상적 재정적 책임(clinical financial accountabilities)입니다. 귀속된 대상자에 대해 임상적 재정적 책임을 인식하고 실행합니다. 
+
+* ③ 보고(report)입니다. 정해진 질 지표를 측정하고 모든 서비스 자료를 보고해야 합니다. 
+
+* ④ 보상(incentive)입니다. 질과 비용 절감 목표를 달성하면 충분한 인센티브를 제공하는 것입니다.    
+
+#### 라. 책임의료조직 작동 근거
+
+* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. 
+
+* PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다(Colla 등, 2012).    
+
+## 3. 보건의료제공조직과 인센티브
 
 * 만성질환관리를 잘 하기 위해서는 생애주기에 걸쳐 지속적으로 전문가가 관리하는 것이 중요합니다. 보건의료 전문가를 보유한 보건의료제공조직이 국민을 대상으로 지속적으로 만성질환을 관리하도록 해야 합니다. 그러기 위해서는 보건의료제공조직에게 만성질환관리를 비롯해 예방 등 포괄적보건의료서비스를 잘 수행하면 그에 합당한 인센티브를 주는 것이 핵심입니다. 만성질환관리는 모든 국민이 언젠가는 대상이 됩니다. 수십년에 걸쳐 지속적으로 잘 관리하는 것이 중요한데 현재와 같은 행위별수가제 지불방법으로는 이루어질 수 없는 것입니다. 행위별수가제가 안 된다는 것이 아니고 우리나라가 운영하는 것 같이 의료기관이 행위별로 청구하고 보험자가 상환 지불하면 모든 과정이 끝나는 지불방법으로는 효과적인 만성질환관리를 할 수 없습니다. 행위별수가제로 지불하더라도 진료한 서비스의 질과 결과를 평가하는 과정이 지불과 연계되어야 합니다. 그래야만 효과적인 만성질환관리가 가능하고 국민 건강수준 향상을 이룰 수 있습니다.
 
@@ -54,3 +101,17 @@
 * Colla CH etc. Spending Differences Associated With the Medicare Physician Group Practice Demonstration. JAMA 2012:308(10);1015-1023. doi:10.1001/2012.jama.10812.)](https://jamanetwork.com/journals/jama/fullarticle/1357260#related-tab)    
 * Enthoven AC. Consumer-choice health plan (first of two parts). Inflation and inequity in health care today: alternatives for cost control and an analysis of proposals for national health insurance. N Engl J Med. 1978;298(12):650-658. doi:10.1056/NEJM197803232981204    
 * Enthoven AC. Consumer-Choice Health plan (second of two parts). A national-health-insurance proposal based on regulated competition in the private sector. N Engl J Med. 1978;298(13):709-720. doi:10.1056/NEJM197803302981304
+
+
+
+
+
+## 4. 책임의료조직과 정부의 사회복지의료서비스 정책 확장의 실현
+
+* 정부가 책임의료조직을 도입한다는 의미는 국민의 건강수준 향상을 위해 의료계로 하여금 정부가 정한 국민 건강지표를 향상하도록 요구한다는 것입니다. 맡은 인구집단에 대해 좋은 건강결과를 내도록 정부가 압박을 한다면, 건강결과 뿐만 아니라 건강결정요인 중 정책적으로 필요한 것에 대해 요구하게 될 것입니다. 
+
+* 예를 들어, 집이 없는 독거노인에 대해 건강관리는 물론이고 주거와 식사 제공을 요구한다면 책임의료조직은 맡은 인구집단 중 해당하는 대상자들에 대해 국가의 공공복지서비스와 연계시켜 노인요양시설이나 노인병원 등의 시설을 활용해 정부가 요구한 기준을 충족시킬 것입니다. 정부는 결과 평가 후 건강보험과 장기요양보험 재정을 사용해 보상할 것입니다. 
+
+* 질 관리는 보상 기준 프로토콜에 의해 관리될 것입니다. 이와 같이 건강보험 재정을 사용해 공급자조직을 통제할 수 있다면 국민의 더 나은 삶의 질과 계층간 불평등 해소를 달성할 수 있습니다. 
+
+* 정부의 요구를 시설 혹은 자원의 부족으로 충족시킬 수 없는 책임의료조직은 도태되거나 합병될 것입니다. 현재와 같이 시장경쟁이 없는 환경 속에서 아무런 책임도 없이 찾아 온 국민들을 진료하면 진료한만큼은 건강보험에서 행위별로 보상해주므로 건강보험 급여기준에만 맞추어 진료하면 살아갈 수 있는 현재의 시스템과는 차원이 다른 세상이 열리는 것입니다. 
