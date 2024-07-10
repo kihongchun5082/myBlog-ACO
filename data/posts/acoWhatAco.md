@@ -51,10 +51,10 @@
 
 #### 라. 책임의료조직 작동 근거
 
-* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act))하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. 
+* 오바마케어를 입법(PPACA:Patient Protection and Affordable Care Act)하기 전에 오바마케어의 핵심 기전인 ACO가 실제로 작동하는 지를 검증하기 위해 CMS 하부조직인 [CMMI](https://en.wikipedia.org/wiki/Center_for_Medicare_and_Medicaid_Innovation)(the Center for Medicare and Medicaid Innovation)는 ACO의 초기 모델인 PGPD(Physician Group Practice Demonstration) 시범사업을 하였습니다. 
 
 * PGPD는 2005-2009년까지 5개년간 10개의 참여그룹을 대상으로 실험하였습니다. 참여 그룹들은 5년간 대장암 스크리닝과 같은 예방적 의료서비스와 효과적인 만성질환관리 등의 의료서비스를 제공합니다. 32가지 질 평가를 하고 여기에 근거하여 성취한 이익(saving)의 80%까지 가져갈 수 있도록 설계하였습니다. 그 결과 PGPD 참여 그룹들이 5년간 1억3천7백만 달러의 의료비용을 줄이는데 성공했다고 평가하였습니다(Colla 등, 2012).    
 
 #### 참고문헌:    
 
-* Colla CH etc. Spending Differences Associated With the Medicare Physician Group Practice Demonstration. JAMA 2012:308(10);1015-1023. doi:10.1001/2012.jama.10812.)](https://jamanetwork.com/journals/jama/fullarticle/1357260#related-tab)    
+* Colla CH etc. Spending Differences Associated With the Medicare Physician Group Practice Demonstration. JAMA 2012:308(10);1015-1023. doi:10.1001/2012.jama.10812.(https://jamanetwork.com/journals/jama/fullarticle/1357260#related-tab)    
